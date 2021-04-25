@@ -8,3 +8,4 @@ ReactDOM.render(
     </span>, 
     document.getElementById('root')
 );
+JSON
